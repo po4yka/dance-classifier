@@ -294,6 +294,6 @@ cython_debug/
 .history
 .ionide
 
-# Support for Project snippet scope
+.DS_Store
 
 # End of https://www.toptal.com/developers/gitignore/api/python,jupyternotebooks,visualstudiocode,pycharm
